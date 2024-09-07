@@ -15,5 +15,11 @@ In file Routs :-
 "/search" :- Filter and Search the user
 <br><br>
 <h3>React Form Task Description :- </h3>
-
-<img srs="Screenshot 2024-09-07 145636.jpg">
+<br>
+In this task i create dynamic form where you can click on add another button then create another field
+and where we click on delete button then delete the fields.
+<br>
+also all formdata store in backend api where i can use node js and store the data 
+when you click on reset button then clear all fiels 
+<br>
+i can use the bootstrap form styling the form and it's also responsive <br> design.
